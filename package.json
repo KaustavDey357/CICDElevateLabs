@@ -1,0 +1,17 @@
+{
+  "name": "cicd-elevatelabs",
+  "version": "1.0.0",
+  "description": "CICD ElevateLabs Node.js Express app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "Kaustav Dey",
+  "license": "MIT"
+}
